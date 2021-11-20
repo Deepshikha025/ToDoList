@@ -14,6 +14,7 @@ var todoItem = {
 todo: '', 
 priority: '' 
 } 
+
 // onkeyup event 
 inputBox.onkeyup =() =>{ 
 selectBox.selectedIndex = 0; 
